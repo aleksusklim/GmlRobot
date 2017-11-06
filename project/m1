@@ -1,0 +1,14 @@
+s=32;
+k=irandom_range(4,10);
+
+x=irandom_range(1,k-2);
+y=irandom_range(x+1,k-1);
+w=k;
+h=k;
+X=y;
+Y=x;
+for(i=0;i<k;i+=1)_p(i,i);
+exit;
+
+
+

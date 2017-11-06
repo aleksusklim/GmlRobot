@@ -1,0 +1,15 @@
+
+task('i2');
+right();
+paint();
+if wall_up(){
+down();
+right();
+right();
+up();
+}else{
+up();
+right();
+right();
+down();
+}stop();

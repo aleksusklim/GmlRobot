@@ -1,0 +1,16 @@
+
+task("file")
+stop()
+
+paint()
+
+up()
+down()
+right()
+left()
+
+wall_up()
+wall_right()
+wall_down()
+wall_left()
+is_painted()

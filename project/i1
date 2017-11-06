@@ -1,0 +1,13 @@
+s=64;
+w=6;
+h=6;
+x=3;
+y=3;
+X=x;
+Y=y;
+if irandom(1) {_m(x+1,y);_w(x+2,y)}
+if irandom(1) {_m(x-1,y);_w(x-2,y)}
+if irandom(1) {_m(x,y+1);_w(x,y+2)}
+if irandom(1) {_m(x,y-1);_w(x,y-2)}
+
+
